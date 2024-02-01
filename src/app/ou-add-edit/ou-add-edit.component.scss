@@ -1,0 +1,29 @@
+.action {
+   
+  padding: 0px 25px 20px;
+    button {
+      flex: 1;
+    }
+
+   // display: flex;
+   // justify-content: space-between;
+  }
+
+  .blue-snackbar {
+    background: #2196F3;
+  }
+  ::ng-deep .warning{
+    background: #31bb5f; 
+    color: white; 
+  }
+
+  /*.action {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .left-button, .right-button {
+    flex: 1;
+  }
+
+  */

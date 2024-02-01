@@ -1,0 +1,83 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+  .main-body {
+    padding-top: 20px;
+    margin: 0 auto;
+    max-width: auto;
+    mat-form-field {
+      width: 100%;
+    };
+   
+  }
+  
+  .action {
+    display: flex;
+    gap: 5px;
+    //align-items: center;
+    //justify-content: center;
+  }
+
+ 
+  
+  /* styles.css or your component's style file */
+.custom-dialog-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.custom-header-row {
+  background-color: rgb(196, 214, 219); 
+  //color: white; 
+ // font-weight: bold;
+  //vertical-align: middle;
+  //padding: 5px;
+  
+  
+
+  
+}
+
+tr th{
+  font-weight: bold;
+  //font-size: 1rem;
+  text-align: center;
+  vertical-align: middle;
+  //font: 1em sans-serif;
+  color: #000;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+
+tr td{
+ // text-align: center;
+  vertical-align: middle;
+ // margin: 0;
+ // padding: 0;
+}
+
+/*
+
+.demo-table {
+  width: 100%;
+}
+
+.mat-mdc-row .mat-mdc-cell {
+  border-bottom: 1px solid transparent;
+  border-top: 1px solid transparent;
+  cursor: pointer;
+}
+
+.mat-mdc-row:hover .mat-mdc-cell {
+  border-color: currentColor;
+}
+
+.demo-row-is-clicked {
+  font-weight: bold;
+}
+
+*/
